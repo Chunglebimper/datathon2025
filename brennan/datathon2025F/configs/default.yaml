@@ -1,0 +1,35 @@
+seed: 42
+output_dir: runs
+
+# paths
+data_root: ${ENV:DATA_ROOT}
+splits_file: configs/splits.json
+
+# dataloader
+img_size: 448
+batch_size: 16
+num_workers: 4
+balance_sampler: true
+
+# optimization
+epochs: 25
+lr: 3.0e-4
+weight_decay: 1.0e-4
+warmup_epochs: 1
+
+# model
+backbone: resnet34
+pretrained: true
+pool: avg
+num_classes: null
+
+# augmentation
+aug:
+  random_resized_crop_scale: [0.7, 1.0]
+  hflip_p: 0.5
+  color_jitter: [0.2, 0.2, 0.2, 0.1]
+  rand_erase_p: 0.25
+
+# logging/checkpoint
+save_best_metric: macro_f1
+patience: 7

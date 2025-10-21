@@ -1,0 +1,12 @@
+torch>=2.2
+torchvision>=0.17
+numpy
+pandas
+scikit-learn
+Pillow
+albumentations>=1.4
+PyYAML
+matplotlib
+rich
+tqdm
+timm>=1.0.8

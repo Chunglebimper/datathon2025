@@ -1,0 +1,5017 @@
+{
+  "labels": [
+    "Aedes Triseriatus",
+    "Aedes aegypti",
+    "Aedes albopictus",
+    "Aedes atlanticus",
+    "Aedes atropalpus",
+    "Aedes canadensis",
+    "Aedes infirmatus",
+    "Aedes sollicitans",
+    "Aedes taeniorhynchus",
+    "Aedes vexans",
+    "Anopheles crucians",
+    "Anopheles punctipennis",
+    "Anopheles quadrimaculatus",
+    "Coquillettidia perturbans",
+    "Culex Nigripalpus",
+    "Culex coronator",
+    "Culex erraticus",
+    "Culex pipiens_restuans",
+    "Culex salinarius",
+    "Culex territans",
+    "Culiseta melanura",
+    "Orthopodomyia signifera",
+    "Psoraphora howardii",
+    "Psorophora ciliata",
+    "Psorophora columbiae",
+    "Psorophora ferox",
+    "Toxorhynchites rutilus",
+    "Uranotaenia sapphirina"
+  ],
+  "train": [
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7700.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7848.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7349.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7809.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7738.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8793.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7755.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8197.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7306.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7665.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7374.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8284.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7473.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8150.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7402.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8684.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7976.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7750.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8927.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8767.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7507.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7309.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8116.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8943.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8049.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8275.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8248.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8699.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7486.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7523.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7927.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7621.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8180.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8010.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7882.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8268.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7852.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8108.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8697.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7529.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8898.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7270.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8874.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7505.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7803.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7760.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8235.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7599.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8277.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_7993.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7464.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7930.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7512.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7284.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7591.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7861.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8790.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7414.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7893.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8149.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7267.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7924.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7873.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8949.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8220.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8271.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8642.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7907.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_7990.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7382.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8896.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8759.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8230.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7868.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7341.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7594.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7973.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7629.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7853.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8106.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7940.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8729.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7304.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7585.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7794.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8139.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7729.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8954.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7707.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7865.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7901.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7905.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8306.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8814.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7296.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8899.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7281.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8059.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8965.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7627.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7730.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8667.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8917.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7836.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8253.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8244.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8875.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7814.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8174.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8789.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7708.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8687.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7331.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7531.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8185.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8042.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7561.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7588.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7711.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7920.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8712.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8296.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7410.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7332.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7357.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7367.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7910.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8141.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8260.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8659.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8722.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8934.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7867.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8893.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7298.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7313.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8922.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8636.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7709.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7843.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8631.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7943.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8675.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7748.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7771.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8178.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7279.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7691.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7317.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7641.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8649.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8878.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7766.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7874.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8009.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7862.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7781.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8945.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7740.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7565.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8167.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8166.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7572.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7720.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8735.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7280.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7350.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7777.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8147.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8289.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7590.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7302.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8153.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7611.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7879.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8160.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8633.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7863.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7636.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8252.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7743.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7612.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7941.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8132.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7569.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7764.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8749.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7261.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7662.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8033.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7818.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7652.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7617.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7353.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7537.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8864.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8047.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8269.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8858.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7752.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7595.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7640.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8741.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_7998.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7406.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8791.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8043.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8258.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8681.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7799.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7716.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7501.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7960.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8903.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8626.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7321.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8744.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8012.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8908.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8619.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8919.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8768.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7761.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7813.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8111.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8690.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7850.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7484.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8190.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7823.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8221.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7371.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7293.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8302.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8237.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7971.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8754.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8200.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7687.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8207.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8763.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8305.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7465.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8701.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8639.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7958.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_7988.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7655.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8728.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8936.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7767.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_7997.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7532.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7344.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8257.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8804.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7702.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7517.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8662.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8219.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8929.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7480.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8958.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7765.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7508.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8128.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7340.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8802.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8815.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8199.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7387.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7845.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7918.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7897.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7739.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8307.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8030.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7483.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8002.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8948.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8182.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7964.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7699.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8144.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8063.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8192.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7395.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8716.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8298.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8233.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8957.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7415.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8210.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7335.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7580.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8213.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7651.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8032.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8909.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7578.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7956.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8666.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8644.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7723.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8123.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7772.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7362.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7957.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7657.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8692.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7834.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8964.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7381.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7936.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8782.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7854.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8865.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7315.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7962.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7912.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8732.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7904.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7521.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8142.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7968.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7982.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8951.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8937.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7713.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7858.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8228.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8966.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7634.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8955.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7538.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8263.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7663.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7560.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7733.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7859.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7947.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7656.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8764.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8859.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8171.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7346.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7539.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7510.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7831.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7827.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8963.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7798.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7282.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7525.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8886.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7758.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8710.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7354.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8234.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7412.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7314.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8158.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8282.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7487.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8739.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8011.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7659.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8152.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7485.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8891.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7753.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7932.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7731.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7461.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7264.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7334.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8811.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7783.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8050.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8750.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8853.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8658.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8870.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8800.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7422.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7497.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8797.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7630.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7632.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8175.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8029.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7860.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8211.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7470.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7881.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7403.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8246.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7515.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8655.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7898.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8229.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8297.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8044.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8785.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8620.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8931.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8240.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8788.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7646.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8855.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8648.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7633.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7355.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8137.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7718.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8913.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7785.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7615.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8136.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8901.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8751.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8287.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8786.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8876.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8193.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7359.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8746.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7837.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8280.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8861.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7378.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8276.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7596.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7471.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8900.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8131.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7732.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7801.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7838.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8778.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7917.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7661.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8863.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7345.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7614.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7797.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7609.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8933.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8902.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7375.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7385.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7370.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7411.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7287.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8013.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8726.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7467.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7285.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8201.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8816.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7372.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8266.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8952.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7793.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7728.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7811.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8121.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7516.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7648.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7986.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8743.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8036.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8946.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7481.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8035.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8647.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7919.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8194.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8020.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8254.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8313.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7892.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8041.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8308.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7265.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7922.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8689.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7289.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7377.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7475.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7961.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8956.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8925.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8795.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7950.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8779.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8281.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8810.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7311.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7396.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8256.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8114.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8216.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7683.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7684.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8794.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8023.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7575.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7275.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8757.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7495.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7291.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8717.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8299.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8217.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7368.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8812.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7518.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8155.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7805.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7506.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8300.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8704.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7969.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8663.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7462.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8227.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7835.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7635.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7759.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7300.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7476.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8127.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7780.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7812.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7408.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8247.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8054.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7570.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8776.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8869.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7721.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7942.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7616.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7647.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8303.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8887.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7851.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7774.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8238.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7273.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8657.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8711.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7409.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7571.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8061.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8164.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8053.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8301.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8048.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7972.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8947.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8756.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8187.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_8969.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7262.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7297.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8627.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7913.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7754.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8889.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8623.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7593.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7573.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7601.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7509.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7951.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7747.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7654.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8188.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7916.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7810.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7472.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8304.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7511.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8113.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7502.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8718.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7926.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7460.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8249.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7773.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8961.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8285.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7825.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7829.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8698.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8028.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8625.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7710.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8780.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7737.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8707.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8884.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8792.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7533.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8664.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7323.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7866.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7977.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7619.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8801.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7807.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7566.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8156.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8206.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7791.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8924.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8279.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8911.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8629.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7883.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7303.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8761.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7361.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8222.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8923.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7494.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8693.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7984.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8879.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7787.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8670.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8713.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8311.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8877.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7271.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8683.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7705.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8209.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7979.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7584.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8645.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7929.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8291.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7762.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7980.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8730.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8034.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8051.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7477.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7613.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7946.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7337.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8736.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7624.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7329.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7735.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7824.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7392.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8038.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8236.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7322.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7369.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7981.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8914.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8719.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8226.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7307.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7727.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7925.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8058.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7703.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7463.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7931.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7869.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7908.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7688.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7953.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7579.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8685.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8868.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7828.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7706.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8186.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7351.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7413.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_7996.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8183.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7388.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8734.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7939.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8950.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8148.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7788.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7653.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7272.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8745.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8204.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8680.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7328.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7877.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7583.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8738.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7482.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_7989.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7348.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8774.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8871.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8652.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7514.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8640.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7784.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7890.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7819.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8191.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7775.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8678.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8695.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8724.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7263.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8650.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_7995.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7607.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7712.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8312.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8169.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8873.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8787.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8654.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7404.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7697.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8912.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7822.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8660.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8921.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8283.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7605.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8700.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7685.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7949.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8888.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7393.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8907.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7643.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7933.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7769.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8892.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7704.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8731.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7568.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8851.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7536.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8632.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8939.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7600.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7963.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8001.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7542.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8176.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8672.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8218.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8039.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8024.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7826.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8916.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7562.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7389.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8242.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7528.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8962.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7886.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7376.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8628.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7602.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8772.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8784.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8932.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8118.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8634.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7386.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_7994.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8960.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8854.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7856.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8805.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7871.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8737.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8760.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7496.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7380.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8796.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8622.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7474.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7896.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7384.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7400.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8753.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7576.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7923.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8130.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8239.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8959.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8852.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7504.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7806.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7725.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8725.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8798.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8278.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7363.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7880.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8708.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7698.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8052.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8940.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7524.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8270.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8205.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8676.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8274.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7644.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8250.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7628.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7333.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7840.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8129.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7779.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7934.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8694.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8264.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_8967.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7833.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7488.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7889.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8883.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8122.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8674.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7277.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7902.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8031.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7696.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7489.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7815.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7690.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7642.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8212.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8109.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8208.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7768.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8202.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8709.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8177.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7330.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7959.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7563.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7864.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8267.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7736.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8906.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7398.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7342.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7530.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8117.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7356.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8145.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7308.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7295.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8703.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7955.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7288.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7490.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7965.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8677.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8665.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8314.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7283.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8126.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7734.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7397.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8742.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8107.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8894.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7846.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8777.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8245.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7519.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8018.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7745.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7418.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_7999.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7872.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8027.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7620.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7623.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7274.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8918.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8765.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7903.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7895.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8251.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7278.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7610.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7534.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8295.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8151.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7469.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7352.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7900.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7884.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7650.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7626.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8026.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7391.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8721.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8154.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8872.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7604.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7967.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8179.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7970.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8857.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8184.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7336.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7770.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7776.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7983.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7891.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7724.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8624.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8920.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8292.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8643.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7742.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8168.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8021.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7582.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8679.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7394.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8294.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7928.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7606.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8162.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7319.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7693.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8771.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7944.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7817.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7821.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8862.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7405.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7938.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7660.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7325.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8752.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7326.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8904.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7316.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8813.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8747.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7383.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8195.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8259.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8720.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8766.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7796.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7339.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7305.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8910.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7935.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7645.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8112.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7522.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7564.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8015.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7468.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8860.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7587.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7527.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8682.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7786.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7855.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7887.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7503.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7358.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8775.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8017.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8003.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7365.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8007.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7327.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8290.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7420.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8000.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7795.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7574.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8881.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8799.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7847.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8110.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8809.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8686.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7324.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7520.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8661.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_7991.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7577.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8688.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8140.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7592.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7857.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8930.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7343.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7746.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7894.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8867.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8014.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7885.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8613.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7909.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8138.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8638.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7875.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8262.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7911.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8656.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7424.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7401.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8062.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7692.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7664.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8705.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8170.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8004.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8618.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_8968.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7493.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7417.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7741.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8115.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8134.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8255.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8723.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7802.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8046.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7686.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7717.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8056.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7622.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8173.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8215.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8243.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7292.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7379.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8055.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8143.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7310.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8641.jpg",
+      "Psorophora ciliata"
+    ]
+  ],
+  "val": [
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8748.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7390.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7631.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7722.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7491.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7878.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7478.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7876.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7608.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8646.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7318.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8807.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7682.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8261.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8288.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8740.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8953.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8286.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7541.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8309.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8016.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7360.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7364.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8060.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8890.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7266.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7597.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8005.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8265.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8856.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7603.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7695.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8938.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7407.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8714.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8653.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8125.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7800.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8231.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8773.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7639.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7726.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8928.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8635.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7492.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8203.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7778.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8806.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7513.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7974.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8146.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8124.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8037.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7567.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7649.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8019.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8783.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7915.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7899.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7625.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7694.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8885.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7841.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7416.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7301.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7338.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7921.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8769.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8293.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7744.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_7992.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8119.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7948.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7763.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7312.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7790.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7849.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7751.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8008.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8040.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7586.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7842.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8621.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7535.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8214.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8165.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8223.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8691.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7276.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7540.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Toxorhynchites rutilus\\JPEG\\IMG_8198.jpg",
+      "Toxorhynchites rutilus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8651.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7320.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8189.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7906.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8895.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7423.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7966.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8866.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7637.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8702.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8941.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8310.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8935.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7839.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8630.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7749.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7816.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8880.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_8273.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8045.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8241.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8781.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_8272.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8762.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7479.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8944.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7290.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7952.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7499.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7498.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7830.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8942.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7719.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7366.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8671.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles quadrimaculatus\\JPEG\\IMG_7756.jpg",
+      "Anopheles quadrimaculatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7373.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8135.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8181.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8897.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7808.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8157.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8733.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7914.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7820.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7975.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7870.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atlanticus\\JPEG\\IMG_7347.jpg",
+      "Aedes atlanticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8668.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8673.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8232.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8025.jpg",
+      "Culex territans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8172.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7286.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culiseta melanura\\JPEG\\IMG_8159.jpg",
+      "Culiseta melanura"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8808.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7937.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex erraticus\\JPEG\\IMG_7804.jpg",
+      "Culex erraticus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes taeniorhynchus\\JPEG\\IMG_7618.jpg",
+      "Aedes taeniorhynchus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7598.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7419.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8926.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7466.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8706.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psoraphora howardii\\JPEG\\IMG_8803.jpg",
+      "Psoraphora howardii"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8758.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7978.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7399.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7789.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes canadensis\\JPEG\\IMG_7500.jpg",
+      "Aedes canadensis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex coronator\\JPEG\\IMG_7782.jpg",
+      "Culex coronator"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7638.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8755.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Uranotaenia sapphirina\\JPEG\\IMG_8225.jpg",
+      "Uranotaenia sapphirina"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Coquillettidia perturbans\\JPEG\\IMG_8120.jpg",
+      "Coquillettidia perturbans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes Triseriatus\\JPEG\\IMG_7658.jpg",
+      "Aedes Triseriatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7689.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7954.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes infirmatus\\JPEG\\IMG_7526.jpg",
+      "Aedes infirmatus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles crucians\\JPEG\\IMG_8882.jpg",
+      "Anopheles crucians"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7581.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7294.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Orthopodomyia signifera\\JPEG\\IMG_8163.jpg",
+      "Orthopodomyia signifera"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ciliata\\JPEG\\IMG_8637.jpg",
+      "Psorophora ciliata"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes atropalpus\\JPEG\\IMG_7421.jpg",
+      "Aedes atropalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora ferox\\JPEG\\IMG_8727.jpg",
+      "Psorophora ferox"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes aegypti\\JPEG\\IMG_7299.jpg",
+      "Aedes aegypti"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex salinarius\\JPEG\\IMG_8006.jpg",
+      "Culex salinarius"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes vexans\\JPEG\\IMG_7701.jpg",
+      "Aedes vexans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes sollicitans\\JPEG\\IMG_7589.jpg",
+      "Aedes sollicitans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Aedes albopictus\\JPEG\\IMG_7260.jpg",
+      "Aedes albopictus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Psorophora columbiae\\JPEG\\IMG_8696.jpg",
+      "Psorophora columbiae"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Anopheles punctipennis\\JPEG\\IMG_8915.jpg",
+      "Anopheles punctipennis"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex pipiens_restuans\\JPEG\\IMG_7985.jpg",
+      "Culex pipiens_restuans"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex Nigripalpus\\JPEG\\IMG_7844.jpg",
+      "Culex Nigripalpus"
+    ],
+    [
+      "C:\\Users\\bjren\\PycharmProjects\\datathon2025F\\data\\Culex territans\\JPEG\\IMG_8057.jpg",
+      "Culex territans"
+    ]
+  ],
+  "test": []
+}
