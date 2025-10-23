@@ -1,4 +1,6 @@
 # Datathon 2025F: Mosquito-ID 
+# Authored by Brennan Miller week of Oct 19th
+# Last updated 10/24
 
 Single-image mosquito **species classification** with PyTorch (ResNet-34 by default). 
 Assumes your dataset has roughly 21 species; each species folder contains a `Jpeg/` subfolder with images like `Aedes aegypti/Jpeg/IMG_7334.jpg`
@@ -42,5 +44,5 @@ Set `DATA_ROOT` to your dataset folder in env file.
 ## Evaluate
    ```bash
    python src/eval.py --checkpoint runs/best.ckpt --splits configs/splits.json --split val
-   python src/infer_single.py --image "<one_image.jpg>" --checkpoint runs/best.ckpt
+   python src/infer_single.py --image "<some_val_image.jpg>" --checkpoint runs/best.ckpt --topk 3
    ```

@@ -1,3 +1,11 @@
+"""
+data.py
+--------
+Defines MosquitoDataset and DataLoader builders.
+- Loads (image_path, label) pairs from JSON splits.
+- Applies augmentations through the transform pipeline.
+- Supports weighted sampling to handle class imbalance.
+"""
 from pathlib import Path
 import json
 from typing import Tuple
@@ -6,15 +14,6 @@ from torch.utils.data import Dataset, DataLoader, WeightedRandomSampler
 from PIL import Image, ImageOps
 from sklearn.preprocessing import LabelEncoder
 import numpy as np
-
-"""
-data.py
---------
-Defines MosquitoDataset and DataLoader builders.
-- Scans JSON splits file to load (image_path, label) pairs.
-- Applies augmentations through the transform pipeline.
-- Supports weighted sampling to handle class imbalance.
-"""
 
 class MosquitoDataset(Dataset):
     def __init__(self, pairs, transform=None, label_encoder=None):

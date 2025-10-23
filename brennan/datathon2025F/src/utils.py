@@ -1,14 +1,12 @@
-import torch
-from torchmetrics.functional import f1_score
-
 """
 utils.py
 ---------
 Utility functions for training:
 - EarlyStopper: stops training when validation metric plateaus.
-- macro_f1_from_logits: computes macro-averaged F1 score from logits.
+- macro_f1_from_logits: macro-averaged F1 from logits via torchmetrics.
 """
-
+import torch
+from torchmetrics.functional import f1_score
 
 class EarlyStopper:
     def __init__(self, patience=7):

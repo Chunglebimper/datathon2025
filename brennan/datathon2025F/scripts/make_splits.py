@@ -1,19 +1,16 @@
-import argparse, json
-from pathlib import Path
-from sklearn.model_selection import train_test_split
-
 """
 make_splits.py
 ---------------
 Creates stratified train/validation splits from the dataset folder structure.
-Automatically detects subfolders under each species directory
+Automatically detects subfolders (e.g., Jpeg/, JPEG/) under each species directory
 and writes configs/splits.json for training.
 
 Usage:
     python scripts/make_splits.py --data-root "<DATA_ROOT>" --val-perc 0.15 --out configs/splits.json
-    see readMe.
 """
-
+import argparse, json
+from pathlib import Path
+from sklearn.model_selection import train_test_split
 
 IMG_EXTS = {".jpg",".jpeg",".png",".bmp",".tif",".tiff"}
 

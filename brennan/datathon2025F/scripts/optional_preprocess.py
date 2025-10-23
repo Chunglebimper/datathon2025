@@ -1,9 +1,3 @@
-# Optional: square-pad + resize images to a new folder on disk.
-# Not necessary for training (transforms already handle resizing).
-import argparse
-from pathlib import Path
-from PIL import Image, ImageOps
-
 """
 optional_preprocess.py
 -----------------------
@@ -12,8 +6,11 @@ Not required for training (transforms already handle resizing dynamically).
 Use only if you want pre-processed copies saved on disk.
 
 Usage:
-    python scripts/optional_preprocess.py --in-root "<RAW_DATA>" --out-root "<OUT_DIR>" --size 448
+    python scripts/optional_preprocess.py --in-root "<RAW_DATA>" --out-root "<OUT_DIR>" --size 300
 """
+import argparse
+from pathlib import Path
+from PIL import Image, ImageOps
 
 IMG_EXTS = {".jpg",".jpeg",".png",".bmp",".tif",".tiff"}
 
@@ -21,7 +18,7 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--in-root", required=True)
     ap.add_argument("--out-root", required=True)
-    ap.add_argument("--size", type=int, default=448)
+    ap.add_argument("--size", type=int, default=300)
     args = ap.parse_args()
 
     in_root, out_root = Path(args.in_root), Path(args.out_root)
